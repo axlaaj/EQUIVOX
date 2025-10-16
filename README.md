@@ -23,8 +23,8 @@ Key Innovations:
               Simulates candidate outcomes under different accents, genders, or names.
               Quantifies “bias penalty” → then neutralizes it in evaluation.
 Why This Matters
-     Tackles UN SDG 8 (Decent Work) + SDG 10 (Reduced Inequalities).
-     Creates a scientific framework for fairness audits that could become as standard as financial audits.
-     Positions hiring fairness as an AI + ethics grand challenge, not just a software project.
-    Creates a scientific framework for fairness audits that could become as standard as financial audits.
-     Positions hiring fairness as an AI + ethics grand challenge, not just a software project.
+1) Tackles UN SDG 8 (Decent Work) + SDG 10 (Reduced Inequalities).
+2) Creates a scientific framework for fairness audits that could become as standard as financial audits.
+3) Positions hiring fairness as an AI + ethics grand challenge, not just a software project.
+4) Creates a scientific framework for fairness audits that could become as standard as financial audits.
+5) Positions hiring fairness as an AI + ethics grand challenge, not just a software project.
